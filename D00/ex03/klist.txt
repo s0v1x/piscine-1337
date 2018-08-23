@@ -1,0 +1,5 @@
+Credentials cache: API:B43D1D10-A0E7-4402-AE2A-B8D22B90EACD
+        Principal: slabiad@1337.MA
+
+  Issued                Expires               Principal
+Jul 19 14:26:23 2018  Jul 20 14:26:23 2018  krbtgt/1337.MA@1337.MA
